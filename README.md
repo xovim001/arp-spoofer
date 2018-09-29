@@ -8,7 +8,8 @@ Dependencies
 ========
  Python 2 and scapy module
 
-##USAGE: 
+ USAGE: 
+========
 Navigate to the folder and run the following command:
 
 python arp-spoof.py  --target (target ip address) --gateway (gateway/router address)
